@@ -23,7 +23,7 @@ Feel free to explore the projects, use them as learning resources, and contribut
 
 Description: A basic Java project for generating email accounts for new employees, focusing on object-oriented design.
 
-[Link to Project 1](emailAdministrator/)
+[Link to Project 1](emailGenerator/)
 
 ## Contact
 

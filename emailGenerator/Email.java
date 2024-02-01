@@ -19,7 +19,7 @@ public class Email {
 		this.lastName = lastName;
 		System.out.println("\nEmail Created Successfully for: " + this.firstName + " " + this.lastName);
 		this.department = getDepartment();
-		email = firstName.toLowerCase() + lastName.toLowerCase() + ".03@" + department + "." + companySignature;
+		email = firstName.toLowerCase() + lastName.toLowerCase() + "@" + department + "." + companySignature;
 		this.password = generatePassword(defaultPasswordlength);
 	}
 
@@ -69,22 +69,6 @@ public class Email {
 		}
 
 		return password;
-	}
-
-	public String getPassword() {
-		return password;
-	}
-
-	public int getMailCapacity() {
-		return mailCapacity;
-	}
-
-	private void changePassword(String password) {
-		this.password = password;
-	}
-
-	public void setMailCapacity(int mailCapacity) {
-		this.mailCapacity = mailCapacity;
 	}
 
 	public String displayInfo() {

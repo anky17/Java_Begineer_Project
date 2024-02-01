@@ -59,7 +59,3 @@ Computer generated option: ROCK
 
 Want to play more(y/n)? n
 ```
-
-## Author
-
-[Ankit Diyal]

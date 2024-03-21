@@ -11,17 +11,7 @@ As an IT student, the primary objective is to create an application that streaml
 - Generates a random password using Java's "Random" class
 - Implements a display method to showcase the name, email, email password, and mail capacity
 
-## Getting Started
+## Output
+![Output Photo](https://github.com/anky17/Java_Begineer_Project/blob/main/emailGenerator/Output.png)
 
-### Prerequisites
-
-- Ensure you have Java installed on your system.
-- Any additional dependencies or libraries.
-
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/anky17/Java_Begineer_Project.git
 
